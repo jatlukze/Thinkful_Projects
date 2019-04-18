@@ -1,0 +1,18 @@
+# Thinkful-Unit1-Capstone
+
+This is a narrative analysis for League of Legends in-game monster Rift Herald.
+
+League of Legends is a MOBA(Multipleplayer Online Battle Arena) game. For deatil about this game, please refer to below link. 
+https://en.wikipedia.org/wiki/League_of_Legends
+
+From time to time, League of Legends undergone multiple major patch updates and the game had shifted dramatically since Season 1. 
+On November 11, 2015(Patch V5.22), Rift Herald is introduced to the game as new monster. Please click below link for detail of Rift Herald.
+http://leagueoflegends.wikia.com/wiki/Rift_Herald
+
+The intension of introducing Rift Herald to game is to have an in-game monster that is equivalent to dragons in the ealy game 
+(Before 20 minutes. Rift Herald spawns at the 9:50 mark. If Rift Herald is not taken, it will be despawned permanently at 19:45/19:55). 
+Due to the buff of summoned Rift Herald, it can due 40% of its current health to towers, which can easily take down a tower in early game.
+
+Taking down a tower early game could lead to shorter game length since the game may finish earlier. Therefore, we will take a look at how 
+the introduction of Rift Herald will influence game length. If we see game length difference between games with taken down Rift Herald and 
+not taken Rift Herald, then we will obtain the average game length of those games, and perform hypothesis analysis.
