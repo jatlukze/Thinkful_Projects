@@ -1,0 +1,9 @@
+This is the pre bootcamp capstone project at Thinkful. 
+This capstone project will be analyzing League of Legends competitive game data from 2015 - 2017 across NALCS, EULCS, 
+LCK, and LMS
+
+NOTE: The original dataset is too large to upload to Github. Therefore, I did some pre-processing for the original dataset. 
+Since I am will be analyzing data for NALCS, EULCS, LCK, and LMS during 2015 - 2017, and I will be analyzing regular season 
+game, playoff games, playoff knock-out stage games (regional), and championship finals. Therefore, I deleted games for other 
+smaller regionals, games outside of 2015 - 2017 time frame, and games that are not in regular season, playoff, knock-out stage 
+and championship finals.
